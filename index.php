@@ -3,5 +3,5 @@
 // Display errors in production mode
 ini_set('display_errors', 1);
 
-// let's get started
+// All right; let's do this; Leeroy Jenkins!!!
 require 'application/tinyMvc.php';
